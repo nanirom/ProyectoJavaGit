@@ -1,2 +1,4 @@
 /ProyectoJavaGit/nbproject/private/
 /ProyectoJavaGit/build/
+*.bak
+output/

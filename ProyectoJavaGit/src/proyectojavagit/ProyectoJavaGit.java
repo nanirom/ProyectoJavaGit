@@ -18,7 +18,8 @@ public class ProyectoJavaGit {
         // TODO code application logic here
         
         System.out.println("Hola Mundo!");
-        System.out.println("Qué tal todo?");
+        
+        System.out.println("Estoy en la rama fusión");
     }
     
 }

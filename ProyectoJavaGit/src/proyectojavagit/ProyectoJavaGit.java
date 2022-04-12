@@ -19,7 +19,11 @@ public class ProyectoJavaGit {
         
         System.out.println("Hola Mundo!");
         
+
         System.out.println("Estoy en la rama fusión");
+
+        System.out.println("Ahora esto en la rama 'otra_rama'");
+
     }
     
 }
